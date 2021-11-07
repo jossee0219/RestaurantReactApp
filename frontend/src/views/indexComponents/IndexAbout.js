@@ -34,7 +34,7 @@ class IndexAbout extends React.Component {
                 <div className="btn-menu">
                   <a
                     className="btn btn-outline-warning"
-                    href="./pages/about.html"
+                    href="/about"
                     role="button"
                   >
                     Conócenos

@@ -17,7 +17,7 @@ class SiteMap extends React.Component {
             <div className="col-md-3 site">
                 <h2>Inicio</h2>
                 <ul className="bx-ul">
-                <li><i className="bx bx-check-double"></i><a href="/index">Inicio</a></li>
+                <li><i className="bx bx-check-double"></i><a href="/">Inicio</a></li>
                 <li><i className="bx bx-check-double"></i><a href="/about">Quienes Somos</a></li>
                 <li><i className="bx bx-check-double"></i><a href="/menu">Menú</a></li>
                 <li><i className="bx bx-check-double"></i><a href="/service">Servicios</a></li>
