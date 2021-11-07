@@ -132,8 +132,8 @@ class Buy extends React.Component {
       product = product.replace("undefined", "");
       emailjs
         .send(
-          "service_2xj4c8l",
-          "template_fqv6ixm",
+          "service_dxswoo3",
+          "template_mlm662d",
           {
             addressee: document.getElementById("client").value,
             products: product,
